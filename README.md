@@ -1,2 +1,2 @@
 # Buyzo
-A full stack Ecom webapp
+A full stack(MERN) Ecom webapp
